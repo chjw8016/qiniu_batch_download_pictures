@@ -1,0 +1,2 @@
+# qiniu_batch_download_pictures
+批量下载七牛云图片
